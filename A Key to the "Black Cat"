@@ -1,0 +1,40 @@
+```html
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>An Imagined Essay — Poe & The Black Cat</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>An Imagined Critical Essay</h1>
+    <p class="subtitle">A fictional essay inspired by the scholarship of Darrel Abel — <strong>NOT</strong> written by Darrel Abel.</p>
+    <nav>
+      <a href="essay.html">Read the Essay</a> ·
+      <a href="README.html">Notes & Disclaimer</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Overview</h2>
+      <p>This site hosts a short, original critical essay written in an academic tone and labeled clearly as <em>fictional</em>. Use it as a model for style, structure, or web publishing practice — not as an attribution to any real author.</p>
+    </section>
+
+    <section>
+      <h2>Quick Links</h2>
+      <ul>
+        <li><a href="essay.html">Full fictional essay (HTML)</a></li>
+        <li><a href="README.html">Project README & deployment instructions</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Created for demonstration. All text is original and clearly fictional.</p>
+  </footer>
+</body>
+</html>
